@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+db.sqlite3
+/static/
+.env
+*.sqlite3
+*.log
+data.json
